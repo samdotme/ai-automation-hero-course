@@ -1,4 +1,4 @@
-# AI Hero Course
+# AI Automationi Hero Course
 
 ## Docker Setup for n8n
 
@@ -12,7 +12,14 @@ Once that's installed and running on your computer, from the terminal (Windows) 
 
 From the root of this repository, run the following command:
 
-  docker-compose up
+    docker-compose up
+
+In a little while, you should see an output that says:
+
+    Editor is now accessible via:
+    http://localhost:5678/
+
+Visit that link in your browser to sign in.
 
 You can look into the n8n docs for further details: https://docs.n8n.io/hosting/installation/docker/
 
