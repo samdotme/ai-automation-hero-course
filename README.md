@@ -1,4 +1,4 @@
-# AI Automationi Hero Course
+# AI Automation Hero Course
 
 ## Docker Setup for n8n
 
